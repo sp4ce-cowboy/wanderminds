@@ -41,7 +41,7 @@ TUM.ai Makeathon 2025 in Munich.
 |---|---|
 | **What** | An AI-powered travel assistant that recommends, guides and immerses you in your travels, in real time, from one app |
 | **Context** | [TUM.ai](https://www.tum-ai.com) Makeathon 2025, Munich, April 2025: a weekend AI hackathon, during my NUS Overseas Colleges year in Munich |
-| **Team** | [Alyssa Png](https://github.com/AlyssaPng), [maiyasaliha](https://github.com/maiyasaliha), Julian Tham and [Rubesh Suresh](https://github.com/sp4ce-cowboy) |
+| **Team** | [Alyssa Png](https://github.com/AlyssaPng), [Sumaiya Saliha](https://github.com/maiyasaliha), Julian Tham and [Rubesh Suresh](https://github.com/sp4ce-cowboy) |
 | **My role** | Shared across the team, from everyone's laptops and accounts. I worked across the explore flow: the preference steppers, the map with its route, directions and steps, the voice narration, and, with the team, the prompts that turn preferences into a route |
 | **Stack** | React Native and Expo (TypeScript), react-native-maps and the Google Directions API, OpenAI GPT-4.1, Expo Location and Speech |
 | **Next** | A native rewrite in Swift is planned, with an eye on the App Store |
