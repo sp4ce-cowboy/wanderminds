@@ -6,7 +6,7 @@
 An AI travel companion for your phone. Tell it how long you have, what you're into, your budget
 and how you're getting around; it plans a short trip from where you stand, draws the route, talks
 you through each stop, and can turn the whole walk into a story. Built in one weekend at the
-TUM.ai Makeathon 2025 in Munich.
+[TUM.ai Makeathon 2025](https://www.tum-ai.com/hackathons) in Munich.
 
 **[Pitch deck (PDF)](docs/wanderminds-pitch.pdf)** · [Original repository and history](https://github.com/AlyssaPng/wanderminds-Makethon-2025)
 
@@ -40,9 +40,8 @@ TUM.ai Makeathon 2025 in Munich.
 | | |
 |---|---|
 | **What** | An AI-powered travel assistant that recommends, guides and immerses you in your travels, in real time, from one app |
-| **Context** | [TUM.ai](https://www.tum-ai.com) Makeathon 2025, Munich, April 2025: a weekend AI hackathon, during my NUS Overseas Colleges year in Munich |
+| **Context** | [TUM.ai Makeathon 2025](https://www.tum-ai.com/hackathons), Munich, 25 – 27 April 2025: a weekend AI hackathon, as part of [NUS Overseas Colleges (NOC) Munich](https://enterprise.nus.edu.sg/education-programmes/nus-overseas-colleges/programmes/munich/) |
 | **Team** | [Alyssa Png](https://github.com/AlyssaPng), [Sumaiya Saliha](https://github.com/maiyasaliha), Julian Tham and [Rubesh Suresh](https://github.com/sp4ce-cowboy) |
-| **My role** | Shared across the team, from everyone's laptops and accounts. I worked across the explore flow: the preference steppers, the map with its route, directions and steps, the voice narration, and, with the team, the prompts that turn preferences into a route |
 | **Stack** | React Native and Expo (TypeScript), react-native-maps and the Google Directions API, OpenAI GPT-4.1, Expo Location and Speech |
 | **Next** | A native rewrite in Swift is planned, with an eye on the App Store |
 
@@ -119,7 +118,7 @@ From git, for the whole team. The weekend wasn't tracked in WakaTime.
 | **Commits** | 52, across 5 branches |
 | **Code** | about 1,250 lines of TypeScript across the app's screens and helpers |
 
-## On my resume
+## On our resumes
 
 **Skills:** React Native · Expo · TypeScript · prompt engineering (OpenAI) · Google Maps Directions API · location services · text-to-speech · rapid prototyping · product pitching
 
