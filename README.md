@@ -131,3 +131,5 @@ npm install
 # .env with OPENAI_API_KEY and GOOGLE_MAPS_API_KEY (read by app.config.js)
 npx expo start   # then press i for the iOS simulator
 ```
+
+<sub>Inspired by an earlier hackathon project, [Cruel Maps](https://github.com/sp4ce-cowboy/cruel-maps).</sub>
