@@ -17,10 +17,6 @@ you through each stop, and can turn the whole walk into a story. Built in one we
 [![Google Maps](https://img.shields.io/badge/Google%20Maps-Directions%20API-4285F4?logo=googlemaps&logoColor=white)](https://github.com/sp4ce-cowboy/wanderminds/blob/fab9d975a66c29973dc4231b0daf19e0303a0051/wanderMinds/app/screens/ExplorerScreen.tsx#L345-L405)
 [![iOS](https://img.shields.io/badge/iOS-Siri%20voice%20narration-000000?logo=apple&logoColor=white)](https://github.com/sp4ce-cowboy/wanderminds/blob/fab9d975a66c29973dc4231b0daf19e0303a0051/wanderMinds/app/screens/ExplorerScreen.tsx#L148-L169)
 
-![Built in](https://img.shields.io/badge/built%20in-one%20weekend-555?style=flat-square)
-![Team](https://img.shields.io/badge/team-4-555?style=flat-square)
-![Modes](https://img.shields.io/badge/modes-explore%20%C2%B7%20story-555?style=flat-square)
-
 </div>
 
 > [!NOTE]
@@ -110,7 +106,7 @@ the bottom-sheet UI, and what a Swift version would change.
 
 ## Coding stats
 
-From git, for the whole team. The weekend wasn't tracked in WakaTime.
+From git, for the whole team.
 
 | | |
 |---|---|
