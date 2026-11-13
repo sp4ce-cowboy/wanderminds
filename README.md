@@ -94,7 +94,7 @@ sequenceDiagram
 More in [ARCHITECTURE.md](ARCHITECTURE.md): the prompt design, the route and directions pipeline,
 the bottom-sheet UI, and what a Swift version would change.
 
-## Skills shown
+## Skills covered
 
 | Skill | Where it shows (click the links for the code) | Docs |
 |---|---|---|
